@@ -1,0 +1,68 @@
+{
+  "Registrationtype": [
+    {
+      "id": "02e2",
+      "type": "Rotratrc"
+    },
+    {
+      "id": "8e68",
+      "type": "Guest"
+    },
+    {
+      "id": "7295",
+      "type": "kanani"
+    }
+  ],
+  "DistrictNo": [],
+  "ClubName": [],
+  "BusinessCategory": [
+    {
+      "id": "a478",
+      "BusinessCategory": "mkkmk"
+    },
+    {
+      "id": "8fa9",
+      "BusinessCategory": "kanani"
+    }
+  ],
+  "AssignPosition": [],
+  "HotelFacility": [
+    {
+      "id": "d0c5",
+      "HotelFacility": "kanani"
+    }
+  ],
+  "VehicleType": [],
+  "VehicleName": [],
+  "Route": [
+    {
+      "id": "67c2",
+      "RouteFrom": "Hotel",
+      "RouteTo": "Home"
+    }
+  ],
+  "AssignTo": [
+    {
+      "id": "0684",
+      "AssignTo": "Admin"
+    }
+  ],
+  "Sponsor": [
+    {
+      "id": "351b",
+      "SponsorType": "Darshak"
+    },
+    {
+      "id": "4dfd",
+      "SponsorType": "Admin"
+    }
+  ],
+  "Role": [],
+  "LoginApi": [
+    {
+      "mobileno": "",
+      "password": "1234",
+      "id": "6e48"
+    }
+  ]
+}
